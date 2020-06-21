@@ -19,6 +19,6 @@ Simular uma fonte capaz de transformar a tensão (127V - 220V) para utilização
 |                |             | R$ 24,68 |
 
 ## Links e Créditos
-1.Simulação Falstad: http://tinyurl.com/ybb3d6c8
-2.Vídeo Explicativo: Em andamento...
-3.N°USP: 11795676
+1. Simulação Falstad: http://tinyurl.com/ybb3d6c8
+2. Vídeo Explicativo: Em andamento...
+3. N°USP: 11795676
