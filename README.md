@@ -2,10 +2,10 @@
 Fonte de Tensão projetada para a matéria de Eletrônica para Computação, gerida por Eduardo do Valle Simões.
 (USP_ICMC_Bacharelado em Ciências da Computação)
 
-# Objetivo
+## Objetivo
 Simular uma fonte capaz de transformar a tensão (127V - 220V) para utilização de 3V a 12V, sendo a corrente máxima de 100mA.
 
-# Lista de Componentes
+## Lista de Componentes
 |   Componente   | Informações |  Preço   |
 |----------------|-------------|----------|
 |  [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-12v-12v-500ma-110-220vac.html) |  12V 500mA  | R$ 22,23 |
@@ -18,7 +18,7 @@ Simular uma fonte capaz de transformar a tensão (127V - 220V) para utilização
 |   [Transistor](https://www.baudaeletronica.com.br/transistor-npn-2n4401.html)   |    600mA    |  R$ 0,16 |
 |                |             | R$ 24,68 |
 
-# Links e Créditos
-Simulação Falstad: http://tinyurl.com/ybb3d6c8
-Vídeo Explicativo: Em andamento...
-N°USP: 11795676
+## Links e Créditos
+1.Simulação Falstad: http://tinyurl.com/ybb3d6c8
+2.Vídeo Explicativo: Em andamento...
+3.N°USP: 11795676
