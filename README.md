@@ -18,6 +18,9 @@ Simular uma fonte capaz de transformar a tensão (127V - 220V) para utilização
 |   [Transistor](https://www.baudaeletronica.com.br/transistor-npn-2n4401.html)   |    600mA    |  R$ 0,16 |
 |                |             | R$ 24,68 |
 
+## Simulação Falstad
+![Simulação_Fonte_Falstad](https://user-images.githubusercontent.com/61746159/86498481-5d689f80-bd5c-11ea-9692-6f5d186f3c09.png)
+
 ## Links e Créditos
 1. Simulação Falstad: http://tinyurl.com/ybb3d6c8
 2. Vídeo Explicativo: https://www.youtube.com/watch?v=v1oGl6g5wH8&feature=youtu.be
