@@ -21,6 +21,11 @@ Simular uma fonte capaz de transformar a tensão (127V - 220V) para utilização
 ## Simulação Falstad
 ![Simulação_Fonte_Falstad](https://user-images.githubusercontent.com/61746159/86498481-5d689f80-bd5c-11ea-9692-6f5d186f3c09.png)
 
+## Simulação EAGLE
+![Sistema_Fonte_EAGLE](https://user-images.githubusercontent.com/61746159/86498554-a7518580-bd5c-11ea-8c18-eb524128d1bf.png)
+
+![Placa_Fonte_EAGLE](https://user-images.githubusercontent.com/61746159/86498574-bb958280-bd5c-11ea-9c6d-6b3faaf9fd1e.png)
+
 ## Links e Créditos
 1. Simulação Falstad: http://tinyurl.com/ybb3d6c8
 2. Vídeo Explicativo: https://www.youtube.com/watch?v=v1oGl6g5wH8&feature=youtu.be
