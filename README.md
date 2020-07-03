@@ -29,4 +29,4 @@ Simular uma fonte capaz de transformar a tensão (127V - 220V) para utilização
 ## Links e Créditos
 1. Simulação Falstad: http://tinyurl.com/ybb3d6c8
 2. Vídeo Explicativo: https://www.youtube.com/watch?v=v1oGl6g5wH8&feature=youtu.be
-3. Eduardo Garcia de Gáspari Valdejão N°USP: 11795676
+3. Eduardo Garcia de Gáspari Valdejão -> N°USP: 11795676
